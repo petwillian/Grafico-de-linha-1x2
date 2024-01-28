@@ -1,5 +1,7 @@
 # Grafico-de-linha-1x2
 
-Grafico 1x2, 1 linha 2 coluna
+Neste gáfico, plt.subplot(), indica que você está criando um subplot com 1 linha e 2 colunas e está trabalhando no primeiro gráfico (o "1" no final). Da mesma forma, plt.subplot() indica que você está trabalhando no segundo gráfico.
 
-![grafico 02](https://github.com/petwillian/Grafico-de-linha-1x2/assets/44210315/0f8c401c-ebef-4575-804f-cadf2ffa1248)
+Os dados x e y são usados para o primeiro gráfico, e os dados x2 e y2 são usados para o segundo gráfico. Os títulos são adicionados para distinguir os dois gráficos.
+
+Se precisar de mais esclarecimentos ou ajustes, sinta-se à vontade para perguntar!
