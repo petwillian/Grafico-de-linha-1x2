@@ -1,4 +1,3 @@
-# Grafico 1x2, 1 linha 2 coluna
 
 # passo 1 - importa a biblioteca
 import matplotlib.pyplot as plt
@@ -30,6 +29,9 @@ ax[1].set_ylabel("Label y 1")
 # a legenda
 ax[0].legend()
 ax[1].legend()
+
+# Salvando o gráfico como uma imagem PNG
+plt.savefig('Gráfico-02.png')
 
 #passo 5 - apresentar o grafico
 plt.show()
